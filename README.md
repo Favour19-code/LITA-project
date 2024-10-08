@@ -47,3 +47,5 @@ WHERE CONDITION = TRUE
 
 
 
+![REVENUE BY REGION CHART](https://github.com/user-attachments/assets/af4e13af-c8dc-44f1-9248-f3152561ea81)
+![bar chart](https://github.com/user-attachments/assets/15cabdf8-b5a4-4f9b-92f8-6d5bc9f7c935)
