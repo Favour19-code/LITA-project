@@ -40,3 +40,9 @@ this is where we include some basic lines of code or queries or even some of DAX
 SELECT * FROM TABLE
 WHERE CONDITION = TRUE
 ```
+
+
+
+### Data visualization
+
+
