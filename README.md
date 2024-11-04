@@ -46,6 +46,12 @@ WHERE CONDITION = TRUE
 ### Data visualization
 
 
+![bar chart](https://github.com/user-attachments/assets/24710b47-3206-41ca-ab69-fe4333c919ab)
 
-![REVENUE BY REGION CHART](https://github.com/user-attachments/assets/af4e13af-c8dc-44f1-9248-f3152561ea81)
-![bar chart](https://github.com/user-attachments/assets/15cabdf8-b5a4-4f9b-92f8-6d5bc9f7c935)
+
+
+![LINE CHART](https://github.com/user-attachments/assets/39f14283-18ed-4d32-a8db-6c7a01c5d2d2)
+
+
+
+![PIE CHART](https://github.com/user-attachments/assets/9afd6d76-5f6e-41fb-970d-633d1afd84e8)
